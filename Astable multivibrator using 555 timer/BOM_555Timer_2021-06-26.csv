@@ -1,8 +1,0 @@
-ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price
-1,10u,"C1,C2",C0603,2,,,,,
-2,LED,LED1,LED0603_RED,1,,,,,
-3,400,R1,R0603,1,,,,,
-4,40k,R2,R0603,1,,,,,
-5,330,RL,R0603,1,,,,,
-6,555,U1,DIP8,1,,,,,
-7,12,V2,HDR1X2,1,,,,,
